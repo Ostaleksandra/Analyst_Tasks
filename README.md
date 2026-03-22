@@ -16,14 +16,17 @@
 ```plaintext
 Analyst_Tasks/
 │
-├── Task1_Equipment_Request_Process/
-│   └── Equipment_Request_Process_Diagram.png
+├── Task1_IT_Equipment_Request_Process/
+│   ├── README.md
+│   └── IT_Equipment_Request_Process_Diagram.png
 │
 ├── Task2_Product_Publication_Process_Analysis/
+│   ├── README.md
 │   ├── Product_Publication_Process_Description.docx
 │   └── Product_Publication_Process_Diagram.png
 │
 └── Task3_User_Registration_Backend_Process/
+    ├── README.md
     ├── User_Registration_API_Description.docx
     └── User_Registration_Backend_Process_Diagram.png
 ```
